@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KNS60", "KNS60\KNS60.csproj", "{FE830533-1563-4952-B7BC-2A5F47E87E97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpiNewSearchCtrl", "D:\Projects\HYPT\Controls\KNS_Controls\TpiSearchCtrl\TpiNewSearchCtrl.csproj", "{5259843A-8D49-4672-AD70-1401C5BAA5A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		new|Any CPU = new|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.new|Any CPU.ActiveCfg = Release|Any CPU
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.new|Any CPU.Build.0 = Release|Any CPU
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE830533-1563-4952-B7BC-2A5F47E87E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.new|Any CPU.ActiveCfg = Release|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.new|Any CPU.Build.0 = Release|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5259843A-8D49-4672-AD70-1401C5BAA5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
